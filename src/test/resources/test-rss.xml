@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+<channel>
+<title>rss-test channel</title>
+<link>the link to the channel</link>
+<description>the description of the rrs channel</description>
+<language>de</language>
+
+
+<item>
+<title>This is the title of the first entry. It's rather short</title>
+<link>the link to the first entry</link>
+<guid>the link to the first entry</guid>
+</item>
+
+<item>
+<title>This is the title of the second entry. It's rather long: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At elementum eu facilisis sed odio morbi quis commodo odio. Et netus et malesuada fames ac turpis egestas. Dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt. Morbi tincidunt ornare massa eget egestas purus viverra accumsan. Donec ultrices tincidunt arcu non. Facilisis mauris sit amet massa vitae tortor condimentum lacinia quis. Nisl nisi scelerisque eu ultrices vitae. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Elit ut aliquam purus sit amet. Urna et pharetra pharetra massa massa ultricies mi quis. Sed velit dignissim sodales ut eu sem integer vitae. Neque ornare aenean euismod elementum nisi quis. Tellus elementum sagittis vitae et leo duis ut diam. Et ultrices neque ornare aenean euismod elementum. Odio ut sem nulla pharetra. Malesuada fames ac turpis egestas. Iaculis urna id volutpat lacus. Diam sollicitudin tempor id eu nisl nunc mi ipsum. Ultricies lacus sed turpis tincidunt id aliquet risus feugiat. Pharetra massa massa ultricies mi quis hendrerit dolor. Integer vitae justo eget magna fermentum iaculis eu non diam. Faucibus vitae aliquet nec ullamcorper sit. Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. Adipiscing bibendum est ultricies integer quis auctor elit sed. In nulla posuere sollicitudin aliquam ultrices. Sapien nec sagittis aliquam malesuada bibendum arcu vitae. In nibh mauris cursus mattis. Turpis egestas pretium aenean pharetra magna ac placerat. Nibh tellus molestie nunc non blandit massa enim nec dui. Adipiscing tristique risus nec feugiat in fermentum posuere urna nec. Pharetra diam sit amet nisl suscipit adipiscing bibendum est ultricies. Nec sagittis aliquam malesuada bibendum arcu vitae. Ut tellus elementum sagittis vitae et leo duis ut diam. Molestie nunc non blandit massa enim nec dui. Morbi tempus iaculis urna id volutpat lacus laoreet non. Arcu risus quis varius quam quisque. Congue quisque egestas diam in. Lectus nulla at volutpat diam ut venenatis tellus in metus. Eget est lorem ipsum dolor sit amet consectetur adipiscing. Accumsan sit amet nulla facilisi morbi tempus. Eget dolor morbi non arcu risus quis. Ornare aenean euismod elementum nisi quis. Sed risus pretium quam vulputate dignissim suspendisse in est ante. Pellentesque pulvinar pellentesque habitant morbi. Convallis aenean et tortor at risus viverra adipiscing. Sed faucibus turpis in eu. Sed arcu non odio euismod lacinia at quis risus sed. Nisl condimentum id venenatis a condimentum vitae sapien pellentesque habitant. Mattis rhoncus urna neque viverra justo nec ultrices. Consectetur libero id faucibus nisl tincidunt eget. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum. Donec massa sapien faucibus et molestie ac feugiat sed. Facilisi cras fermentum odio eu feugiat pretium nibh ipsum consequat. Turpis egestas sed tempus urna et pharetra pharetra massa. Mi quis hendrerit dolor magna eget est lorem ipsum. Egestas tellus rutrum tellus pellentesque eu tincidunt. Laoreet id donec ultrices tincidunt arcu non sodales neque. Ac felis donec et odio pellentesque diam volutpat. A diam sollicitudin tempor id eu nisl nunc mi. Quam pellentesque nec nam aliquam sem et tortor consequat id. Vitae tempus quam pellentesque nec nam aliquam sem et. Bibendum arcu vitae elementum curabitur vitae nunc sed velit. Praesent tristique magna sit amet purus gravida. Dictum sit amet justo donec enim diam vulputate. Egestas fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien. Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis. Adipiscing bibendum est ultricies integer quis auctor elit. Dolor morbi non arcu risus quis varius quam quisque id. Elementum facilisis leo vel fringilla est ullamcorper eget nulla. Integer feugiat scelerisque varius morbi enim nunc faucibus a. Nunc scelerisque viverra mauris in. Hendrerit gravida rutrum quisque non. Eu volutpat odio facilisis mauris sit amet massa vitae. Aliquet lectus proin nibh nisl condimentum id venenatis. Sit amet dictum sit amet justo donec.</title>
+<link>the link to the first entry</link>
+<guid>the link to the first entry</guid>
+</item>
+
+</channel>
+</rss>
